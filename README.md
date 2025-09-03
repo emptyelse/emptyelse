@@ -2,7 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   13 hrs 59 mins  █████████████████████████   100.00 %
+TeX      12 hrs 46 mins  ████████████████████████▒   96.88 %
+Python   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
