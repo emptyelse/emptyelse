@@ -2,11 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python               5 hrs 36 mins   ████████████████████████░   96.50 %
-JSON with Comments   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Markdown             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-TOML                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Text                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python               4 hrs 30 mins   ████████████████████████░   95.77 %
+JSON with Comments   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Markdown             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
