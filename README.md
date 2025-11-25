@@ -2,7 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 mins          █████████████████████████   100.00 %
+Rust     48 mins         █████████████████████░░░░   83.52 %
+Python   9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
 ```
 
 <!--END_SECTION:waka-->
