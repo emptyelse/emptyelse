@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 25 mins         █████████▓░░░░░░░░░░░░░░░   38.42 %
-Other        3 hrs 10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Markdown     2 hrs 7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-PowerShell   1 hr 6 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-TypeScript   42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Python       8 hrs 48 mins         ██████████▒░░░░░░░░░░░░░░   41.38 %
+PowerShell   3 hrs 25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Markdown     2 hrs 29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Other        2 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Inno Setup   1 hr 23 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 ```
 
 <!--END_SECTION:waka-->
